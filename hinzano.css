@@ -1,0 +1,15 @@
+}
+
+#header{
+	vertical-align: centre;
+    display:block;
+    background-color:3300CC;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#wrap{
+	width: 950px;
+	margin: 0 auto;
+}

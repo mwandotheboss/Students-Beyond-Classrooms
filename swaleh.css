@@ -1,0 +1,22 @@
+}
+
+#header{
+	vertical-align: centre;
+    display:block;
+    background-color:3300CC;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#nav{
+	background-color:white;
+	margin-left:50px
+	line-height:5px;
+	text-align:left;
+	height:563px;
+	width:90%;
+	float:center;
+	padding:50px;
+}
+{
